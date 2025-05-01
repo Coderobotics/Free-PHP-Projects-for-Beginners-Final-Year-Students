@@ -1,4 +1,4 @@
-https://www.coderobotics.com/frontend/assets/pages/Free-PHP-Projects-for-Beginners-Final-Year-Students.jpg
+<img src="https://www.coderobotics.com/frontend/assets/pages/Free-PHP-Projects-for-Beginners-Final-Year-Students.jpg">
 
 Are you a beginner learning PHP or a final year student searching for ready-made PHP projects? At Coderobotics, we offer a wide range of free PHP projects designed to help you learn faster, build real-world skills, and complete your academic goals with ease.
 
