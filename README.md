@@ -1,3 +1,5 @@
+https://www.coderobotics.com/frontend/assets/pages/Free-PHP-Projects-for-Beginners-Final-Year-Students.jpg
+
 Are you a beginner learning PHP or a final year student searching for ready-made PHP projects? At Coderobotics, we offer a wide range of free PHP projects designed to help you learn faster, build real-world skills, and complete your academic goals with ease.
 
 Our PHP projects cover various domains such as eCommerce, CRM, HRM, hospital management, school management, and more. Whether you’re just starting out or working on a final-year project, our source codes are beginner-friendly, well-documented, and 100% free to download.
