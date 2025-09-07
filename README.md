@@ -12,10 +12,19 @@ Clean and well-commented source code
  Ideal for BCA, MCA, B.Tech, and Computer Science students
 Easy to customize and extend
 Perfect for self-learning and college submissions
-Explore our growing collection of <a href="https://www.coderobotics.com/product-category/free-download">200+ free PHP projects</a> with source code and start coding your way to success. Coderobotics offers beginner-friendly and <a href="https://www.coderobotics.com/product-category/final-year-projects">50+ final-year-level PHP projects</a> to help college students understand PHP development through real-time, practical examples. 
+Explore our growing collection of <a href="https://www.phpscriptsonline.com/product-category/free-download">200+ free PHP projects</a> with source code and start coding your way to success. Coderobotics offers beginner-friendly and <a href="https://www.phpscriptsonline.com/product-category/final-year-projects">50+ final-year-level PHP projects</a> to help college students understand PHP development through real-time, practical examples. 
 
-Whether you're building your portfolio or completing your final semester, Coderobotics has your back.
+Whether you're building your portfolio or completing your final semester, Phpscriptsonline has your back.
 
-To explore all our products in one place, <a href="https://www.coderobotics.com/view-all-products">click here>></a>
+To explore all our products in one place, <a href="https://www.phpscriptsonline.com/view-all-products">click here>></a>
 
-https://www.coderobotics.com/blog/free-php-projects-for-beginners-final-year-students
+https://www.phpscriptsonline.com/blog/free-php-projects-for-beginners-final-year-students
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
